@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidKunwar
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in Full Stack Web & Cross-platform App Development
+- 🌱 I’m currently learning MERN stack and Flutter
 - 💞️ I’m looking to collaborate on projects that will provide me great insights
 - 📫 How to reach me ...
 
